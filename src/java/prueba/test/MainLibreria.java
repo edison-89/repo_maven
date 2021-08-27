@@ -15,6 +15,7 @@ public class MainLibreria {
 
 		Libro libro = BaseDeDatos.buscarLibroPorCodigo("A11");
 		System.out.println(libro);
+		//Nombre
 	}
 
 }
