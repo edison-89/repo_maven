@@ -13,7 +13,7 @@ public class MainLibreria {
 
 		BaseDeDatos.insertarLibro(libro1);
 
-		Libro libro = BaseDeDatos.buscarLibroPorCodigo("A10");
+		Libro libro = BaseDeDatos.buscarLibroPorCodigo("A11");
 		System.out.println(libro);
 	}
 
